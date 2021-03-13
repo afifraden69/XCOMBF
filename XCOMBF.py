@@ -172,7 +172,7 @@ def tokenz():
 		print logo
 		jalan ('\033[0;97m\nSUBSCRIBE CHANEL GW DULU GAN BIAR HOKI CRACKNYA')
 		jalan ('\033[0;97mPLEASE SUBSCRIBE , THANK YOU 🙏')
-		os.system('xdg-open https://youtube.com/channel/UCddFZBdhHBFPfrrLFD881qw')
+		os.system('xdg-open https://m.youtube.com/channel/UC7kqla4Jh-ujwE6BKaUE_Rw')
 		menu()
 	except KeyError:
 		print "\033[0;97m[\033[0;39m!\033[0;97m] \033[1;92mToken Salah !"
@@ -187,7 +187,7 @@ def ambil_token():
 	print logo
 	print 50* "\033[1;94m─"
 	jalan("        \033[1;92mAnda Akan Di Arahkan Ke Youtube ...")
-	os.system('xdg-open https://youtu.be/ViEtoEF7Uiw')
+	os.system('xdg-open https://m.youtube.com/watch?v=BohysbsfVbA')
 	time.sleep(2)
 	masuk()
 	
